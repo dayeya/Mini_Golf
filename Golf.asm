@@ -1,18 +1,11 @@
 ; Assembly Project - Mini Golf. 
-; creator - Daniel sapojnikov, ID - 215673369
-; Date of submission - 12.06.2022
-; School - De Shalit High School
-; Teacher - Guy Shenhav 
-
-; Thanks to the educational team, friends and family.
- 
 
 .386 ; .386 in order to use far jumps
 IDEAL
 MODEL small
 STACK 100h
 DATASEG
-	;gravity equ 0100111001110b ;9.807m/s^2
+	; gravity equ 0100111001110b - f64 (headache) 
 	Clock equ es:6Ch
 	
 	subPixel equ 0
