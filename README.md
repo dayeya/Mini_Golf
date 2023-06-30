@@ -3,3 +3,10 @@
 
 
 # Mini_Golf game written in Assembly x86
+
+This fun game has only one objective and it is to get the ball inside the hole.
+Any player can press 'R' to visit the rules.
+
+## Installation
+
+You need an assembly emulator (DosBox) then you can simple clone `Golf.asm`.
