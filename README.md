@@ -9,4 +9,4 @@ Any player can press 'R' to visit the rules.
 
 ## Installation
 
-You need an assembly emulator (DosBox) then you can simple clone `Golf.asm`
+You need an assembly emulator (DosBox) then you can simply clone `Golf.asm`
